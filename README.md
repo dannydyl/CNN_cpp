@@ -1,8 +1,8 @@
-# ESE 344 - Project 1: Convolutional Neural Networks for Object Recognition: Forward Propagation
+# Project : Convolutional Neural Networks for Object Recognition: Forward Propagation
 
 ## Overview
 
-This project is designed for the course ESE 344, Software Techniques for Engineers, at SUNY at Stony Brook, Dept. of ECE, under the guidance of Prof. Murali Subbarao. It focuses on implementing the forward propagation phase of a Convolutional Neural Network (CNN) for object recognition, specifically using the CNN-AK model that identifies ten classes of objects in 32x32x3 color images. The project does not cover the training part (backpropagation) but focuses on the classification part using forward propagation.
+This project focuses on implementing the forward propagation phase of a Convolutional Neural Network (CNN) for object recognition, specifically using the CNN-AK model that identifies ten classes of objects in 32x32x3 color images. The project does not cover the training part (backpropagation) but focuses on the classification part using forward propagation.
 
 ## Objectives
 
